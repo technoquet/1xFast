@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hind-movie.in/sitemap.xml
